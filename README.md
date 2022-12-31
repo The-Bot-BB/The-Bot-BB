@@ -19,4 +19,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b0trick-bb-1&show_icons=true&theme=dark&locale=en" alt="b0trick-bb-1" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Bot-BB&show_icons=true)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=The-Bot-BB&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=The-Bot-BB&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=The-Bot-BB&show_icons=true" />
+</picture>
