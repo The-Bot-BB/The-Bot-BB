@@ -24,7 +24,9 @@
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=The-Bot-BB&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=The-Bot-BB&show_icons=true" />
 </picture>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bot-BB&repo=The-Bot-BB)](https://github.com/The-Bot-BB/The-Bot-BB)
