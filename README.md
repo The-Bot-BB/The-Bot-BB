@@ -7,14 +7,13 @@
 
 - 🌱 I’m currently learning **Cyber security**
 
-- 📫 How to reach me **bot7pf94ncl@proton.me**
+- 📫 How to reach me **<a href="bot7pf94ncl@proton.me" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/mail.svg" alt="bot7pf94ncl@proton.me" height="30" width="40" /></a>**
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/The-Bot-BB" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/github.svg" alt="https://github.com/The-Bot-BB" height="30" width="40" /></a>
-<a href="https://t.me/B0TRICK" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/telegram.svg" alt="https://t.me/B0TRICK" height="30" width="40" /></a>
 <a href="https://archlinux.org/" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/archlinux.svg" alt="https://archlinux.org/" height="30" width="40" /></a>
 </p>
 
