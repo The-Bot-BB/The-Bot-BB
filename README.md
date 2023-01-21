@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://github.com/The-Bot-BB" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/github.svg" alt="https://github.com/The-Bot-BB" height="30" width="40" /></a>
 <a href="https://t.me/B0TRICK" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/telegram.svg" alt="https://t.me/B0TRICK" height="30" width="40" /></a>
-
+<a href="https://archlinux.org/" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/archlinux.svg" alt="https://archlinux.org/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
