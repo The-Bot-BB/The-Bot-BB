@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cyber security**
 
-- 📫 How to reach me **<a href="bot7pf94ncl@proton.me" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/mail.svg" alt="bot7pf94ncl@proton.me" height="30" width="40" /></a>**
+- 📫 How to reach me **<a href="bot7pf94ncl@proton.me" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/mail.svg" alt="bot7pf94ncl@proton.me" height="40" width="40" /></a>**
 
 - ⚡ Fun fact **I think I am funny**
 
