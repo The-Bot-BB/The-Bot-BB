@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-- ☢️ I'm use <a href="https://archlinux.org/" target="blank"> btw <img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/archlinux.svg" alt="https://archlinux.org/" height="30" width="40" /></a>
+- ☢️ I'm use <a href="https://archlinux.org/" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/archlinux.svg" alt="https://archlinux.org/" height="30" width="40" />btw</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
