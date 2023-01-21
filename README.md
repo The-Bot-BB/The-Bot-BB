@@ -13,8 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a target="_blank" href="https://icons8.com/icon/62856/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
 <a href="https://discord.gg/https://discord.gg/EWhf2A8c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/EWhf2A8c" height="30" width="40" /></a>
 </p>
 
