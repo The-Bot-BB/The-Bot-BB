@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm BB</h1>
+<h3 align="center">Welcome to my GitHub profile:)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-bot-bb&label=Profile%20views&color=0000ff&style=flat" alt="the-bot-bb" /> </p>
 
