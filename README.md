@@ -13,11 +13,7 @@
 
 - ☢️ I'm use **<a href="https://archlinux.org/" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/archlinux.svg" alt="https://archlinux.org/" height="30" width="40" /></a>** btw
 
-- 💰 If u like my work donate me :) <a href="http://KristinitaTest.github.io/donate/Bitcoin-Redirect"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg" height="30" width="40" ></a>
-<script>
-window.location.href = "bitcoin:17uctxtsWG3gpyAy6iJ8AVd5rdSjkJH2?label=In%20the%20treatme0of%20Sasha's%20teeth&amp;amount=0.0037";
-history.back();
-</script>
+- 💰 If u like my work donate me :) <a href="http://KristinitaTest.github.io/donate/Bitcoin-Redirect"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg" height="30" width="40" > bitcoin:bc1qzlqh5gmr0q4gjkjfyu8etv2y8zwwjqfvc7lplr </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
