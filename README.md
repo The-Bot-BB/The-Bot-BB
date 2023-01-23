@@ -15,33 +15,27 @@
 
 - 💰 If u like my work donate me :) 
 
-<style>
-.donate-button {
-    text-align: center;
-}
-.donate-button .bitcoin-address {
-    font-size: 1.5em;
-}
-</style>
-
-<div class="donate-button">
-    <a class="donate-button-link" href="#donate">
-        <img src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg" alt="Donate Ƀitcoin" />
-    </a>
-    <div class="bitcoin-address">Ƀitcoin address: <code>bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql</code> <3</div>
-</div>
-
+<script src="http://coinwidget.com/widget/coin.js"></script>
 <script>
-$(document).ready(function () {
-    $('.donate-button-link').on('click', function (e) {
-        e.preventDefault();
-        $(this).slideUp(100);
-        $('.bitcoin-address').slideDown(100);
-    });
-});
-// Hide address immediately if JS is enabled
-document.querySelector('.bitcoin-address').style.display = 'none';
+	CoinWidgetCom.go({
+		wallet_address		: 'bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql',
+		currency 		: 'bitcoin',
+		counter			: 'amount',
+		lbl_button 		: 'TIP ME',	
+		lbl_count		: 'payments',
+		lbl_amount 		: 'coins',
+		lbl_address		: 'Please send bitcoin tips to:bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql',
+		qrcode			: false,
+		decimals		: 0,
+		onShow 			: function(){
+			alert('window opened!');
+		},
+		onHide 			: function(){
+			alert('window closed!');
+		}
+	});
 </script>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
