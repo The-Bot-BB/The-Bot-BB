@@ -13,29 +13,7 @@
 
 - ☢️ I'm use **<a href="https://archlinux.org/" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/archlinux.svg" alt="https://archlinux.org/" height="30" width="40" /></a>** btw
 
-- 💰 If u like my work donate me :) 
-
-<script src="http://coinwidget.com/widget/coin.js"></script>
-<script>
-	CoinWidgetCom.go({
-		wallet_address		: 'bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql',
-		currency 		: 'bitcoin',
-		counter			: 'amount',
-		lbl_button 		: 'TIP ME',	
-		lbl_count		: 'payments',
-		lbl_amount 		: 'coins',
-		lbl_address		: 'Please send bitcoin tips to:bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql',
-		qrcode			: false,
-		decimals		: 0,
-		onShow 			: function(){
-			alert('window opened!');
-		},
-		onHide 			: function(){
-			alert('window closed!');
-		}
-	});
-</script>
-
+- 💰 If u like my work donate me :) <code> bitcoin:bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql  </code>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
