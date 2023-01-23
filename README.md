@@ -13,7 +13,35 @@
 
 - ☢️ I'm use **<a href="https://archlinux.org/" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/archlinux.svg" alt="https://archlinux.org/" height="30" width="40" /></a>** btw
 
-- 💰 If u like my work donate me :) <a href="http://The-Bot-BB.github.io/blob/master/donate/Bitcoin-HTML-Redirect"><img src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg" height="30" width="40" ></a>
+- 💰 If u like my work donate me :) 
+
+<style>
+.donate-button {
+    text-align: center;
+}
+.donate-button .bitcoin-address {
+    font-size: 1.5em;
+}
+</style>
+
+<div class="donate-button">
+    <a class="donate-button-link" href="#donate">
+        <img src="http://ef3ae845b6eed6ec4024-8a0a46e5f1a5cc9854958bc3503f0f88.r40.cf1.rackcdn.com/donate_64.png" alt="Donate Ƀitcoin" />
+    </a>
+    <div class="bitcoin-address">Ƀitcoin address: <code>1Q3p3N5Eu7roSFFmjMevD7eymtpfC7urSk</code> <3</div>
+</div>
+
+<script>
+$(document).ready(function () {
+    $('.donate-button-link').on('click', function (e) {
+        e.preventDefault();
+        $(this).slideUp(100);
+        $('.bitcoin-address').slideDown(100);
+    });
+});
+// Hide address immediately if JS is enabled
+document.querySelector('.bitcoin-address').style.display = 'none';
+</script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
