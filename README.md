@@ -19,7 +19,6 @@
 ```
 bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql
 ```
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/The-Bot-BB" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/github.svg" alt="https://github.com/The-Bot-BB" height="30" width="40" /></a>
