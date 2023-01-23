@@ -13,7 +13,7 @@
 
 - ☢️ I'm use **<a href="https://archlinux.org/" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/archlinux.svg" alt="https://archlinux.org/" height="30" width="40" /></a>** btw
 
-- 💰 If u like my work donate me :) <code>bitcoin:bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql</code>
+- 💰 If u like my work donate me :) <a href="bitcoin:bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql" ><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg" alt="bitcoin:bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql" height="30" width="40" /></a> <code>bitcoin:bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql</code>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
