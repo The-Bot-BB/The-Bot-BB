@@ -13,6 +13,9 @@
 
 - ☢️ I'm use **<a href="https://archlinux.org/" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/archlinux.svg" alt="https://archlinux.org/" height="30" width="40" /></a>** btw
 
+- 💰 If u like my work donate me :) <a href="https://github.com/The-Bot-BB" ><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg" alt="https://github.com/The-Bot-BB" height="30" width="40" /></a> <a href="https://github.com/The-Bot-BB" ><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/paypal.svg" alt="https://github.com/The-Bot-BB" height="30" width="40" /></a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/The-Bot-BB" target="blank"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/github.svg" alt="https://github.com/The-Bot-BB" height="30" width="40" /></a>
