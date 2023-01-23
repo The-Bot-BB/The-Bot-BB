@@ -26,9 +26,9 @@
 
 <div class="donate-button">
     <a class="donate-button-link" href="#donate">
-        <img src="http://ef3ae845b6eed6ec4024-8a0a46e5f1a5cc9854958bc3503f0f88.r40.cf1.rackcdn.com/donate_64.png" alt="Donate Ƀitcoin" />
+        <img src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg" alt="Donate Ƀitcoin" />
     </a>
-    <div class="bitcoin-address">Ƀitcoin address: <code>1Q3p3N5Eu7roSFFmjMevD7eymtpfC7urSk</code> <3</div>
+    <div class="bitcoin-address">Ƀitcoin address: <code>bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql</code> <3</div>
 </div>
 
 <script>
