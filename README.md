@@ -19,9 +19,8 @@
 ```
 bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql
 ```
-<a href="https://nowpayments.io/donation?api_key=bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql" target="_blank">
-  <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>
+<a href="https://the-bot-bb.github.io/donate/Bitcoin-Redirect"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
