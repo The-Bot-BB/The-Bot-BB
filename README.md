@@ -19,6 +19,8 @@
 ```
 bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql
 ```
+<button class="bitcoinate" data-size="20" data-address="bc1q6nmkd5hdg9y45h2klzvezgh9fk6lgpr0rr6l2l" data-type="URI" data-amount="0.01" data-label="Please Donate:)">bitcoinate</button>
+<script src=//bitcoinate.org/scripts/libraries/0.2.2.min.js></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
