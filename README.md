@@ -15,12 +15,7 @@
 
 ### Bitcoin
 
-💰 If u like my work donate me :) <a href="https://github.com/The-Bot-BB/The-Bot-BB.github.io/blob/master/donate/Bitcoin-HTML-Redirect.html" ><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg" alt="bitcoin:bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql" height="30" width="40" /></a> 
-```
-bc1qfddgt7vlaa6g4umg0t5lfx3l5ppuvvcuhmhnql
-```
-<a href="https://the-bot-bb.github.io/donate/Bitcoin-Redirect"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg"></a>
-
+💰 If u like my work donate me :) <a href="https://the-bot-bb.github.io/donate/Bitcoin-Redirect"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
