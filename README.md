@@ -15,7 +15,7 @@
 
 ### Bitcoin
 
-💰 If u like my work donate me :) <a href="https://the-bot-bb.github.io/donate/Bitcoin-Redirect"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg"></a>
+💰 If u like my work donate me :) <a href="https://the-bot-bb.github.io/donate/Bitcoin-Redirect"><img align="center" src="https://github.com/The-Bot-BB/The-Bot-BB/blob/main/bitcoin.svg" height="30" width="40" ></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
