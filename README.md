@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-bot-bb&theme=midnight-purple" alt="the-bot-bb" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-bot-bb&show_icons=true&locale=en&theme=midnight-purple&layout=compact" alt="the-bot-bb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-bot-bb&show_icons=true&locale=en&theme=midnight-purple&layout=compact" alt="the-bot-bb" /></p>
