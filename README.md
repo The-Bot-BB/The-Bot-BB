@@ -29,7 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-bot-bb&show_icons=true&theme=github_dark&locale=en" alt="the-bot-bb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-bot-bb&theme=github_dark" alt="the-bot-bb" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-bot-bb&show_icons=true&locale=en&theme=github_dark&layout=compact" alt="the-bot-bb" /></p>
 
