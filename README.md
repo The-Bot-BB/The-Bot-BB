@@ -33,4 +33,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-bot-bb&show_icons=true&locale=en&theme=midnight-purple&layout=compact" alt="the-bot-bb" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
